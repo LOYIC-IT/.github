@@ -10,6 +10,7 @@ Seguir la nomenclatura según el proyecto asignado:
 - INMOCAIXA-aplicación01
 - COLONIAL-aplicación01
 - LOYIC-BTP-aplicación01
+- LOYIC-FIORI-Apps-aplicación01
   
 <!-- FOOTER -->
 ---
