@@ -10,7 +10,6 @@
 - INMOCAIXA-aplicación01
 - COLONIAL-aplicación01
 - LOYIC-BTP-aplicación01
-- LOYIC-CATLOG-aplicación01
 
 ### Al realizar migraciones desde Web IDE, tener en cuenta las siguientes consideraciones para evitar conflictos y asegurar un proceso de migración más limpio y eficiente: 💡
 
